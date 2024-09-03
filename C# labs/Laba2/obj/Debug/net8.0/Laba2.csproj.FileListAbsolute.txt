@@ -1,4 +1,0 @@
-C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba2\obj\Debug\net8.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba2\obj\Debug\net8.0\Laba2.AssemblyInfoInputs.cache
-C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba2\obj\Debug\net8.0\Laba2.AssemblyInfo.cs
-C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba2\obj\Debug\net8.0\Laba2.csproj.CoreCompileInputs.cache
