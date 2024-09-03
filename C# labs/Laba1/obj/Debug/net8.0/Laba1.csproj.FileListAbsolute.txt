@@ -1,0 +1,42 @@
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\Laba1.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\Laba1.AssemblyInfo.cs
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\bin\Debug\net8.0\Laba1.exe
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\bin\Debug\net8.0\Laba1.deps.json
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\bin\Debug\net8.0\Laba1.runtimeconfig.json
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\bin\Debug\net8.0\Laba1.dll
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\bin\Debug\net8.0\Laba1.pdb
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\Laba1.dll
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\refint\Laba1.dll
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\Laba1.pdb
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\Laba1.genruntimeconfig.cache
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba1\obj\Debug\net8.0\ref\Laba1.dll
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\bin\Debug\net8.0\Laba1.exe
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\bin\Debug\net8.0\Laba1.deps.json
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\bin\Debug\net8.0\Laba1.runtimeconfig.json
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\bin\Debug\net8.0\Laba1.dll
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\bin\Debug\net8.0\Laba1.pdb
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\Laba1.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\Laba1.AssemblyInfo.cs
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\Laba1.dll
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\refint\Laba1.dll
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\Laba1.pdb
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\Laba1.genruntimeconfig.cache
+C:\Users\pavel\Desktop\proga 2 sem\Labi\Laba1\obj\Debug\net8.0\ref\Laba1.dll
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\bin\Debug\net8.0\Laba1.exe
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\bin\Debug\net8.0\Laba1.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\bin\Debug\net8.0\Laba1.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\bin\Debug\net8.0\Laba1.dll
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\bin\Debug\net8.0\Laba1.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\Laba1.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\Laba1.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\Laba1.dll
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\refint\Laba1.dll
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\Laba1.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\Laba1.genruntimeconfig.cache
+C:\Users\pasha\OneDrive\Рабочий стол\to github)))\C# labs\Laba1\obj\Debug\net8.0\ref\Laba1.dll

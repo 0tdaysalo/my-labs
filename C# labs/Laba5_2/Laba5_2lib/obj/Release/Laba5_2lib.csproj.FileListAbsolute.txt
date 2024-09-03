@@ -1,0 +1,12 @@
+C:\Users\aElDi\Desktop\прога 2\Laba5_2lib\bin\Release\Laba5_2lib.dll
+C:\Users\aElDi\Desktop\прога 2\Laba5_2lib\bin\Release\Laba5_2lib.pdb
+C:\Users\aElDi\Desktop\прога 2\Laba5_2lib\obj\Release\Laba5_2lib.csproj.AssemblyReference.cache
+C:\Users\aElDi\Desktop\прога 2\Laba5_2lib\obj\Release\Laba5_2lib.csproj.CoreCompileInputs.cache
+C:\Users\aElDi\Desktop\прога 2\Laba5_2lib\obj\Release\Laba5_2lib.dll
+C:\Users\aElDi\Desktop\прога 2\Laba5_2lib\obj\Release\Laba5_2lib.pdb
+C:\Users\pavel\Desktop\прога 2\Laba5_2lib\bin\Release\Laba5_2lib.dll
+C:\Users\pavel\Desktop\прога 2\Laba5_2lib\bin\Release\Laba5_2lib.pdb
+C:\Users\pavel\Desktop\прога 2\Laba5_2lib\obj\Release\Laba5_2lib.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\прога 2\Laba5_2lib\obj\Release\Laba5_2lib.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\прога 2\Laba5_2lib\obj\Release\Laba5_2lib.dll
+C:\Users\pavel\Desktop\прога 2\Laba5_2lib\obj\Release\Laba5_2lib.pdb

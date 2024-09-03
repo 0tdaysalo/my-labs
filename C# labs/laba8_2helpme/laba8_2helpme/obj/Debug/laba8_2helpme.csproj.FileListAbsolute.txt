@@ -1,0 +1,14 @@
+C:\Users\pasha\OneDrive\Рабочий стол\laba8_2helpme\laba8_2helpme\bin\Debug\laba8_2helpme.exe.config
+C:\Users\pasha\OneDrive\Рабочий стол\laba8_2helpme\laba8_2helpme\bin\Debug\laba8_2helpme.exe
+C:\Users\pasha\OneDrive\Рабочий стол\laba8_2helpme\laba8_2helpme\bin\Debug\laba8_2helpme.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\laba8_2helpme\laba8_2helpme\obj\Debug\laba8_2helpme.csproj.AssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\laba8_2helpme\laba8_2helpme\obj\Debug\laba8_2helpme.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\laba8_2helpme\laba8_2helpme\obj\Debug\laba8_2helpme.exe
+C:\Users\pasha\OneDrive\Рабочий стол\laba8_2helpme\laba8_2helpme\obj\Debug\laba8_2helpme.pdb
+C:\Users\pavel\Desktop\proga 2 sem\Labi\laba8_2helpme\laba8_2helpme\bin\Debug\laba8_2helpme.exe.config
+C:\Users\pavel\Desktop\proga 2 sem\Labi\laba8_2helpme\laba8_2helpme\bin\Debug\laba8_2helpme.exe
+C:\Users\pavel\Desktop\proga 2 sem\Labi\laba8_2helpme\laba8_2helpme\bin\Debug\laba8_2helpme.pdb
+C:\Users\pavel\Desktop\proga 2 sem\Labi\laba8_2helpme\laba8_2helpme\obj\Debug\laba8_2helpme.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\proga 2 sem\Labi\laba8_2helpme\laba8_2helpme\obj\Debug\laba8_2helpme.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\proga 2 sem\Labi\laba8_2helpme\laba8_2helpme\obj\Debug\laba8_2helpme.exe
+C:\Users\pavel\Desktop\proga 2 sem\Labi\laba8_2helpme\laba8_2helpme\obj\Debug\laba8_2helpme.pdb

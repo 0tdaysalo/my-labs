@@ -1,0 +1,20 @@
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\obj\Debug\71.csproj.AssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\obj\Debug\_71.Form1.resources
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\obj\Debug\_71.Properties.Resources.resources
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\obj\Debug\71.csproj.GenerateResource.cache
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\obj\Debug\71.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\bin\Debug\71.exe.config
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\bin\Debug\71.exe
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\bin\Debug\71.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\obj\Debug\71.exe
+C:\Users\pasha\OneDrive\Рабочий стол\study in psuti\1курс\2 семестр\proga\71\71\obj\Debug\71.pdb
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\bin\Debug\71.exe.config
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\bin\Debug\71.exe
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\bin\Debug\71.pdb
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\obj\Debug\71.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\obj\Debug\_71.Form1.resources
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\obj\Debug\_71.Properties.Resources.resources
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\obj\Debug\71.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\obj\Debug\71.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\obj\Debug\71.exe
+C:\Users\pavel\Desktop\labi proga 2 semak\Labi\Laba7_1\71\obj\Debug\71.pdb

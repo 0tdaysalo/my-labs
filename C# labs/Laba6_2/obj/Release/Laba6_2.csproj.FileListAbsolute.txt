@@ -1,0 +1,10 @@
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\bin\Release\Laba6_2.exe.config
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\bin\Release\Laba6_2.exe
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\bin\Release\Laba6_2.pdb
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\obj\Release\Laba6_2.csproj.AssemblyReference.cache
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\obj\Release\Laba6_2.Form1.resources
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\obj\Release\Laba6_2.Properties.Resources.resources
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\obj\Release\Laba6_2.csproj.GenerateResource.cache
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\obj\Release\Laba6_2.csproj.CoreCompileInputs.cache
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\obj\Release\Laba6_2.exe
+C:\Users\aElDi\Desktop\прога 2\Laba6_2\obj\Release\Laba6_2.pdb
